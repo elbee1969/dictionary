@@ -24,6 +24,7 @@ public class Invoice {
 	this.amount = amount;
     }
 
+    //
     public String getReference() {
 	return reference;
     }
